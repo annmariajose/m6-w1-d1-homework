@@ -16,7 +16,7 @@ class Home extends Component {
                             to="/inventories"
                             className='nav-link'>
                                 Manage Inventory List
-                            </Link>
+                        </Link>
                     </Button>
                 </Container>
             </div>
